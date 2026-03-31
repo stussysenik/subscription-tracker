@@ -1,19 +1,25 @@
-<div align="center">
+# subscription-tracker
 
-# Subscription Tracker
-
-
+Subscription Tracker
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Active-green?style=flat-square)
 
-</div>
+## About
+
+🛠 **CLI / Tool** built with React / Next.js / RedwoodJS.
+
+<!-- 
+  Add a demo GIF here:
+  ![Demo](demo.gif)
+-->
+
+## Run
+
+```bash
+npm install
+npm run dev
+```
 
 ---
 
-## Quick Start
-
-```bash
-git clone https://github.com/stussysenik/subscription-tracker.git
-cd subscription-tracker
-```
+*Built by [@stussysenik](https://github.com/stussysenik)*
